@@ -66,9 +66,4 @@ docker compose up -d
 docker compose down
 ```
 
----
 
-## 📚 Pour aller plus loin
-
-- [Documentation officielle Docker](https://docs.docker.com/)
-- [Play with Docker (en ligne)](https://labs.play-with-docker.com/)
